@@ -50,7 +50,7 @@ export function Header() {
                         
 
                     </IconContext.Provider>
-                    <img className="img-user" src="https://github.com/gabrieldiasss.png" />
+                    <img className="img-user" src="https://github.com/cintyasanini.png" />
                 </div>
 
             </div>
