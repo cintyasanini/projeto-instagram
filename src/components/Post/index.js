@@ -10,9 +10,9 @@ export function Post() {
             <header className="header-post" >
 
                 <div className="infos-post" >
-                    <img className="img-header-post" src="https://github.com/maykbrito.png" />
+                    <img className="img-header-post" src="https://github.com/cintyasanini.png" />
 
-                    <p>maykbrito</p>
+                    <p>usuario</p>
                 </div>
 
 
@@ -20,7 +20,7 @@ export function Post() {
             </header>
 
             <div className="img-post" >
-                <img src="https://github.com/maykbrito.png"/>
+                <img src="https://github.com/cintyasanini.png"/>
             </div>
 
             <div className="footer-post" >
@@ -45,7 +45,7 @@ export function Post() {
 
                 <div className="legend" >
                     <p>
-                        <span>maykbrito</span> Desenvolvemos peças exclusivas para a Black Friday com descontos de até 60% OFF. Em breve.
+                        <span>usuario</span> legenda
                     </p>
                 </div>
 

@@ -29,13 +29,13 @@ export function Suggestion() {
     return (
         <div className="container-suggestion">
             <div className="header-suggestion" >
-                <img src={`https://github.com/gabrieldiasss.png`} />
+                <img src={`https://github.com/cintyasanini.png`} />
 
                 <div className="user-infos-suggestion" >
 
                     <div className="infos" >
-                        <span>gbrldiass</span>
-                        <p>gabriel dias</p>
+                        <span>user</span>
+                        <p>usuario</p>
                     </div>
 
                     <button className="switch" >Mudar</button>
@@ -59,7 +59,7 @@ export function Suggestion() {
     
                         <div className="info-suggestion" >
                             <span>{suggestion.login}</span>
-                            <p>Seguido por filipedechamps</p>
+                            <p>Seguido por outro_usuario</p>
                         </div>
     
                         <button className='follow' >Seguir</button>

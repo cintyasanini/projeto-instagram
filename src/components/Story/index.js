@@ -9,19 +9,19 @@ export function Story() {
             <div className="user-elements" >
 
                 <div>
-                    <img className="image-user-story" src="https://github.com/peas.png"  />
+                    <img className="image-user-story" src="https://github.com/cintyasanini.png"  />
                 </div>
 
-                <span>neymarjr</span>
+                <span>usuario</span>
             </div>
 
             <div className="user-elements" >
 
                 <div>
-                    <img className="image-user-story" src="https://github.com/peas.png"  />
+                    <img className="image-user-story" src="https://github.com/cintyasanini.png"  />
                 </div>
 
-                <span>neymarjr</span>
+                <span>usuario</span>
 
 
 
